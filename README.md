@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **artisticdishu25@gmil.com**
+- 📫 How to reach me **disharighosh77@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGlhK-bUBA/FmMPHSs1moNoaeL2IuzcnQ/edit?utm_content=DAGlhK-bUBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhK-bUBA/FmMPHSs1moNoaeL2IuzcnQ/edit?utm_content=DAGlhK-bUBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
