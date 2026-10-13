@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%E2%9C%A8;Data+Driven+Problem+Solver+%F0%9F%93%8A;Building+Real+World+ML+Projects+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Enthusiast+%E2%9C%A8;Data+Driven+Problem+Solver+%F0%9F%93%8A;Building+Real+World+ML+Projects+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 
 <p align="center">
   <a href="#-about-me">About</a> •
-  <a href="#-currently-learning">Learning</a> •
   <a href="#%EF%B8%8F-languages--tools">Tech Stack</a> •
   <a href="#-github-stats">Stats</a> •
   <a href="#-lets-connect">Connect</a>
@@ -28,7 +27,7 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="Data dashboard illustration" width="320" src="assets/about.svg">
 
 > *"Turning data into decisions, one model at a time."*
 
@@ -50,28 +49,6 @@
 - 🤝 Always happy to collaborate on ML and AI ideas
 
 </details>
-
----
-
-<!-- ================= LEARNING ================= -->
-## 🌱 Currently Learning
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br><br>
-      Algorithms, evaluation &amp; tuning
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br><br>
-      Deploying models as web apps
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Data%20Analysis-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white" /><br><br>
-      EDA &amp; feature engineering
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -99,15 +76,13 @@
 </details>
 
 <details open>
-<summary><b>🤖 Data Science, ML & Deep Learning</b></summary>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
 <br>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV" title="OpenCV"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" title="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" title="Seaborn"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch" title="PyTorch"/>
 </p>
 </details>
 
