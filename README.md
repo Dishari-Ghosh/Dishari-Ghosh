@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Hi%2C%20I%20am%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=170&section=header&text=Hi%2C%20I%20am%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=170&section=footer" width="100%" />
 </p>
 
 <p align="center"><i>⭐ Thanks for stopping by! Let's build something intelligent together. ⭐</i></p>
