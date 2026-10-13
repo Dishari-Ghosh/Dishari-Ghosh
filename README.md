@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Hi%2C%20I%20am%20Dishari%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Enthusiast+%E2%9C%A8;Data+Driven+Problem+Solver+%F0%9F%93%8A;Building+Real+World+ML+Projects+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Enthusiast+%E2%9C%A8;Data+Driven+Problem+Solver+%F0%9F%93%8A;Building+Real+World+ML+Projects+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-<img align="right" alt="Data dashboard illustration" width="320" src="assets/about.svg">
+<img align="right" alt="Data dashboard illustration" width="320" src="https://raw.githubusercontent.com/Dishari-Ghosh/Dishari-Ghosh/main/assets/about.svg">
 
 > *"Turning data into decisions, one model at a time."*
 
