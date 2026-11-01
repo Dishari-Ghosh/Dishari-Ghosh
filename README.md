@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D27,50:51258A,100:9B5DE5&height=190&section=header&text=PURPLE%2F%2FPROTOCOL&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=DISHARI%20GHOSH%20%20%2F%2F%20DEVELOPER%20%26%20TECH%20ENTHUSIAST&descSize=13&descAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:160D27,50:51258A,100:9B5DE5&amp;height=200&amp;section=header&amp;text=PURPLE%2F%2FPROTOCOL&amp;fontSize=43&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -100,7 +100,7 @@ public class DishariGhosh {
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp&amp;theme=dark" />
 
 <br/><br/>
 
@@ -188,6 +188,6 @@ Turning concepts into practical solutions.
 
 `THINK DIFFERENTLY. BUILD FEARLESSLY.`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B5DE5,50:51258A,100:160D27&height=75&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9B5DE5,50:51258A,100:160D27&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
