@@ -1,18 +1,64 @@
  <div align="center">
 
-# `PURPLE//PROTOCOL`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D27,50:51258A,100:9B5DE5&height=190&section=header&text=PURPLE%2F%2FPROTOCOL&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=DISHARI%20GHOSH%20%20%2F%2F%20DEVELOPER%20%26%20TECH%20ENTHUSIAST&descSize=13&descAlignY=70&animation=fadeIn" width="100%" />
 
-### `DISHARI GHOSH` // DEVELOPER & TECH ENTHUSIAST
+<br/>
 
-**Engineering ideas into reality.**
+`[ SYSTEM ONLINE ]` &nbsp; ` [ BUILDING THE FUTURE ]` &nbsp; `[ VERSION 2.0 ]`
 
-`[ SYSTEM STATUS: ONLINE ]` · `[ BUILD: IN PROGRESS ]` · `[ VERSION: 1.0 ]`
+<br/>
+
+<a href="https://www.linkedin.com/in/dishari-ghosh-087110286/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:disharighosh77@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-9B5DE5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/disharighosh7"><img src="https://img.shields.io/badge/KAGGLE-Explore-9B5DE5?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### `01 // WHOAMI`
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## `01 / WHOAMI`
+
+Hi, I'm **Dishari Ghosh**.
+
+A developer and tech enthusiast interested in building things, understanding how they work, and exploring intelligent solutions.
+
+- Exploring AI & Machine Learning
+- Interested in Data Science
+- Learning Docker
+- Always experimenting with code
+
+**My principle:** Understand deeply. Build intelligently.
+
+</td>
+<td width="40%" valign="top">
+
+## `02 / SYSTEM INFO`
+
+```yaml
+name: Dishari Ghosh
+role: Developer
+languages:
+  - Java
+  - Python
+  - C
+  - C++
+interests:
+  - AI / ML
+  - Data Science
+  - Software Development
+status: Learning & Building
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>⌘ VIEW WHOAMI — JAVA SOURCE CODE</b></summary>
 
 ```java
 public class DishariGhosh {
@@ -31,12 +77,6 @@ public class DishariGhosh {
         "Software Development"
     };
 
-    String[] currentlyLearning = {
-        "Docker",
-        "Machine Learning",
-        "Problem Solving"
-    };
-
     void philosophy() {
         System.out.println(
             "Understand deeply. Build intelligently."
@@ -50,75 +90,104 @@ public class DishariGhosh {
 }
 ```
 
----
-
-### `02 // TECH ARSENAL`
-
-**PROGRAMMING LANGUAGES**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-**FRAMEWORKS & DATABASES**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,docker" />
-</p>
-
-**DATA SCIENCE & COMPUTER VISION**
-
-`Pandas` · `Scikit-learn` · `OpenCV` · `Seaborn`
+</details>
 
 ---
 
-### `03 // CURRENT OPERATIONS`
-
-| TRACK | STATUS |
-|---|---|
-| Docker | `LEARNING` |
-| Machine Learning | `EXPLORING` |
-| Problem Solving | `ONGOING` |
-| Software Development | `BUILDING` |
-
-> Curiosity is the engine. Consistency is the algorithm.
-
----
-
-### `04 // GITHUB TELEMETRY`
+## `03 / TECH ARSENAL`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dishari-Ghosh&show_icons=true&theme=midnight-purple&hide_border=true" />
+**LANGUAGES**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishari-Ghosh&layout=compact&theme=midnight-purple&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=Dishari-Ghosh&theme=midnight-purple&hide_border=true" />
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dishari-Ghosh&theme=tokyo-night&hide_border=true&area=true" />
+**FRAMEWORKS · DATABASE · TOOLS**
+
+<img src="https://skillicons.dev/icons?i=django,mysql,docker&theme=dark" />
+
+<br/><br/>
+
+**DATA SCIENCE & COMPUTER VISION**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
 
 </div>
 
 ---
 
-### `05 // ESTABLISH CONNECTION`
+## `04 / CURRENT OPERATIONS`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishari-ghosh-087110286/)
+<table>
+<tr>
+<td width="50%">
 
-[![Kaggle](https://img.shields.io/badge/KAGGLE-Explore-8B5CF6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/disharighosh7)
+**01 — DOCKER**
 
-[![Resume](https://img.shields.io/badge/RESUME-View-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Dishari-Ghosh/Dishari-Ghosh/blob/main/assets/Dishari_Ghosh_Resume.pdf)
+Learning containerization and understanding how applications run in containers.
 
-[![Email](https://img.shields.io/badge/EMAIL-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disharighosh77@gmail.com)
+</td>
+<td width="50%">
+
+**02 — MACHINE LEARNING**
+
+Exploring models, algorithms, and intelligent systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**03 — PROBLEM SOLVING**
+
+Improving logical thinking and coding skills.
+
+</td>
+<td width="50%">
+
+**04 — DEVELOPMENT**
+
+Turning concepts into practical solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dishari-Ghosh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5D5F5" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishari-Ghosh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5D5F5" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=Dishari-Ghosh&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dishari-Ghosh&bg_color=0D1117&color=C084FC&line=9333EA&point=E9D5FF&area=true&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-`[ END OF TRANSMISSION ]`
+## `06 / END OF TRANSMISSION`
 
-**Think. Code. Experiment. Repeat.**
+**Curiosity → Experiments → Code → Progress**
 
-<sub>© 2026 Dishari Ghosh // PURPLE PROTOCOL</sub>
+`THINK DIFFERENTLY. BUILD FEARLESSLY.`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B5DE5,50:51258A,100:160D27&height=75&section=footer" width="100%"/>
 
 </div>
