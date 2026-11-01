@@ -182,12 +182,14 @@ public class DishariGhosh {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dishari-Ghosh&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;icon_color=A855F7&amp;text_color=E5D5F5" alt="Dishari Ghosh GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishari-Ghosh&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=E5D5F5" alt="Dishari Ghosh most used languages" />
+<img src="https://img.shields.io/github/followers/Dishari-Ghosh?style=for-the-badge&amp;color=9B5DE5&amp;labelColor=1E1237&amp;logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Dishari-Ghosh/Voyexa-AI?style=for-the-badge&amp;color=9B5DE5&amp;labelColor=1E1237&amp;logo=github" alt="VOYEXA AI stars" />
+<img src="https://img.shields.io/github/last-commit/Dishari-Ghosh/Voyexa-AI?style=for-the-badge&amp;color=9B5DE5&amp;labelColor=1E1237" alt="VOYEXA AI last commit" />
+<img src="https://img.shields.io/github/languages/top/Dishari-Ghosh/Voyexa-AI?style=for-the-badge&amp;color=9B5DE5&amp;labelColor=1E1237" alt="VOYEXA AI top language" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dishari-Ghosh&amp;bg_color=0D1117&amp;color=C084FC&amp;line=9333EA&amp;point=E9D5FF&amp;area=true&amp;hide_border=true" alt="Dishari Ghosh contribution activity graph" />
+<img src="https://ghchart.rshah.org/9B5DE5/Dishari-Ghosh" width="95%" alt="Dishari Ghosh contribution heatmap" />
 
 </div>
 
