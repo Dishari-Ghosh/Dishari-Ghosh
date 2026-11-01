@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Current focus: Docker, machine learning, problem solving, building">
+<defs>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F3E8FF"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5"/>
+</linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#51258A"/>
+</linearGradient>
+<linearGradient id="hline" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B0714"/><stop offset="0.55" stop-color="#1A0F33"/><stop offset="1" stop-color="#2A1450"/>
+</linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" fill="none" stroke="#9B5DE5" stroke-opacity="0.09"/>
+</pattern>
+<radialGradient id="glow">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0.55"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect x="10" y="10" width="485" height="105" rx="14" fill="#120B22" stroke="#3B2670"/>
+<circle cx="40" cy="45" r="5" fill="#A855F7"/>
+<circle cx="40" cy="45" r="5" fill="none" stroke="#A855F7"><animate attributeName="r" values="5;13" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="64" y="52" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">DOCKER</text>
+<text x="475" y="50" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC" letter-spacing="2">LEARNING</text>
+<text x="34" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#CDB8EA">Containerization and how apps run in containers.</text>
+<rect x="505" y="10" width="485" height="105" rx="14" fill="#120B22" stroke="#3B2670"/>
+<circle cx="535" cy="45" r="5" fill="#A855F7"/>
+<circle cx="535" cy="45" r="5" fill="none" stroke="#A855F7"><animate attributeName="r" values="5;13" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="559" y="52" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">MACHINE LEARNING</text>
+<text x="970" y="50" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC" letter-spacing="2">EXPLORING</text>
+<text x="529" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#CDB8EA">Models, algorithms and intelligent systems.</text>
+<rect x="10" y="135" width="485" height="105" rx="14" fill="#120B22" stroke="#3B2670"/>
+<circle cx="40" cy="170" r="5" fill="#A855F7"/>
+<circle cx="40" cy="170" r="5" fill="none" stroke="#A855F7"><animate attributeName="r" values="5;13" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="64" y="177" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">PROBLEM SOLVING</text>
+<text x="475" y="175" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC" letter-spacing="2">PRACTISING</text>
+<text x="34" y="213" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#CDB8EA">Sharper logical thinking and stronger coding.</text>
+<rect x="505" y="135" width="485" height="105" rx="14" fill="#120B22" stroke="#3B2670"/>
+<circle cx="535" cy="170" r="5" fill="#A855F7"/>
+<circle cx="535" cy="170" r="5" fill="none" stroke="#A855F7"><animate attributeName="r" values="5;13" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="559" y="177" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">BUILDING</text>
+<text x="970" y="175" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC" letter-spacing="2">ONGOING</text>
+<text x="529" y="213" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#CDB8EA">Turning ideas like VOYEXA AI into real products.</text>
+</svg>

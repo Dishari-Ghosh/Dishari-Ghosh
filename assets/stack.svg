@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="VOYEXA AI stack: React, FastAPI, Pandas and Scikit-learn, custom dataset">
+<defs>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F3E8FF"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5"/>
+</linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#51258A"/>
+</linearGradient>
+<linearGradient id="hline" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B0714"/><stop offset="0.55" stop-color="#1A0F33"/><stop offset="1" stop-color="#2A1450"/>
+</linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" fill="none" stroke="#9B5DE5" stroke-opacity="0.09"/>
+</pattern>
+<radialGradient id="glow">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0.55"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect x="25" y="25" width="200" height="140" rx="14" fill="#120B22" stroke="#3B2670"/>
+<rect x="39" y="25" width="172" height="3" rx="1.5" fill="url(#hline)"/>
+<text x="43" y="57" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#8B7BA8" letter-spacing="3">FRONTEND</text>
+<text x="43" y="101" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="800" fill="#FFFFFF">React</text>
+<text x="43" y="149" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC">User interface</text>
+<line x1="233" y1="95" x2="265" y2="95" stroke="#C084FC" stroke-width="2.5" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
+<polygon points="265,89 274,95 265,101" fill="#C084FC"/>
+<rect x="275" y="25" width="200" height="140" rx="14" fill="#120B22" stroke="#3B2670"/>
+<rect x="289" y="25" width="172" height="3" rx="1.5" fill="url(#hline)"/>
+<text x="293" y="57" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#8B7BA8" letter-spacing="3">BACKEND</text>
+<text x="293" y="101" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="800" fill="#FFFFFF">FastAPI</text>
+<text x="293" y="149" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC">API layer</text>
+<line x1="483" y1="95" x2="515" y2="95" stroke="#C084FC" stroke-width="2.5" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
+<polygon points="515,89 524,95 515,101" fill="#C084FC"/>
+<rect x="525" y="25" width="200" height="140" rx="14" fill="#120B22" stroke="#3B2670"/>
+<rect x="539" y="25" width="172" height="3" rx="1.5" fill="url(#hline)"/>
+<text x="543" y="57" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#8B7BA8" letter-spacing="3">INTELLIGENCE</text>
+<text x="543" y="93" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">Pandas</text>
+<text x="543" y="119" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">Scikit-learn</text>
+<text x="543" y="149" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC">Machine learning</text>
+<line x1="733" y1="95" x2="765" y2="95" stroke="#C084FC" stroke-width="2.5" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
+<polygon points="765,89 774,95 765,101" fill="#C084FC"/>
+<rect x="775" y="25" width="200" height="140" rx="14" fill="#120B22" stroke="#3B2670"/>
+<rect x="789" y="25" width="172" height="3" rx="1.5" fill="url(#hline)"/>
+<text x="793" y="57" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#8B7BA8" letter-spacing="3">DATA</text>
+<text x="793" y="93" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">Custom</text>
+<text x="793" y="119" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">dataset</text>
+<text x="793" y="149" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="13" fill="#C084FC">Built by me</text>
+</svg>

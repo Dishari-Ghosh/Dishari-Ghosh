@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Dishari Ghosh, PURPLE//PROTOCOL">
+<defs>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F3E8FF"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5"/>
+</linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#51258A"/>
+</linearGradient>
+<linearGradient id="hline" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0"/><stop offset="0.5" stop-color="#C084FC"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B0714"/><stop offset="0.55" stop-color="#1A0F33"/><stop offset="1" stop-color="#2A1450"/>
+</linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" fill="none" stroke="#9B5DE5" stroke-opacity="0.09"/>
+</pattern>
+<radialGradient id="glow">
+  <stop offset="0" stop-color="#9B5DE5" stop-opacity="0.55"/><stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip"><rect width="1000" height="340" rx="18"/></clipPath><linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C084FC" stop-opacity="0"/><stop offset="1" stop-color="#C084FC" stop-opacity="0.45"/></linearGradient></defs>
+<g clip-path="url(#clip)">
+<rect width="1000" height="340" fill="url(#bg)"/>
+<rect width="1000" height="340" fill="url(#grid)"/>
+<circle cx="820" cy="130" r="230" fill="url(#glow)"><animate attributeName="cx" values="780;870;780" dur="10s" repeatCount="indefinite"/></circle>
+<rect x="-30" y="0" width="30" height="340" fill="url(#scan)"><animate attributeName="x" from="-30" to="1030" dur="7s" repeatCount="indefinite"/></rect>
+<line x1="0" y1="62" x2="1000" y2="62" stroke="#3B2670"/>
+<circle cx="44" cy="31" r="7" fill="#51258A"/>
+<circle cx="68" cy="31" r="7" fill="#7B3FC4"/>
+<circle cx="92" cy="31" r="7" fill="#9B5DE5"/>
+<text x="960" y="37" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="14" fill="#8B7BA8">protocol://dishari-ghosh</text>
+<text x="60" y="108" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="19" fill="#9B5DE5">$ whoami</text>
+<text x="60" y="196" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="4" fill="url(#nameg)">DISHARI GHOSH</text>
+<text x="60" y="228" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="15" fill="#8B7BA8" letter-spacing="3">DEVELOPER  //  PURPLE//PROTOCOL v2.0</text>
+<text x="60" y="262" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="23" fill="#E9D5FF" opacity="0" letter-spacing="1.5">AI  ·  MACHINE LEARNING  ·  DATA SCIENCE<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="9s" begin="0s" repeatCount="indefinite"/></text>
+<text x="60" y="262" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="23" fill="#E9D5FF" opacity="0" letter-spacing="1.5">BUILDING VOYEXA AI: TRAVEL THAT FITS THE TRAVELLER<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="9s" begin="3s" repeatCount="indefinite"/></text>
+<text x="60" y="262" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="23" fill="#E9D5FF" opacity="0" letter-spacing="1.5">UNDERSTAND DEEPLY. BUILD INTELLIGENTLY.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="9s" begin="6s" repeatCount="indefinite"/></text>
+<g transform="translate(880,190)">
+<circle r="92" fill="none" stroke="#9B5DE5" stroke-opacity="0.5" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></circle>
+<circle r="62" fill="none" stroke="#C084FC" stroke-opacity="0.6" stroke-dasharray="14 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/></circle>
+<path d="M0 -26 L26 0 L0 26 L-26 0 Z" fill="none" stroke="#C084FC" stroke-width="2"/>
+<circle r="6" fill="#C084FC"><animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<line x1="60" y1="296" x2="940" y2="296" stroke="#3B2670"/>
+<text x="60" y="322" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="15" fill="#8B7BA8" letter-spacing="2">4TH-YEAR STUDENT  ·  NARULA INSTITUTE OF TECHNOLOGY</text>
+<circle cx="842" cy="317" r="5" fill="#A855F7"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="940" y="322" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="15" fill="#C084FC" letter-spacing="2">ONLINE</text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="339" rx="18" fill="none" stroke="#3B2670"/>
+</svg>
