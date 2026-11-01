@@ -26,29 +26,44 @@
 
 ## `01` // `$ whoami`
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dishari Ghosh"
-        self.role = "Developer & Tech Enthusiast"
-        self.languages = ["Python", "C", "C++", "Java"]
-        self.interests = [
-            "Data Science",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Software Development"
-        ]
-        self.current_focus = [
-            "Problem Solving",
-            "Docker",
-            "Intelligent Systems"
-        ]
+```JAVA
+public class DishariGhosh {
 
-    def philosophy(self):
-        return "Understand deeply. Build intelligently."
+    // Developer Profile
+    String name = "Dishari Ghosh";
+    String role = "Developer & Tech Enthusiast";
 
+    // Programming Languages
+    String[] languages = {
+        "Java", "Python", "C", "C++"
+    };
 
-me = Developer()
+    // Areas of Interest
+    String[] interests = {
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Software Development"
+    };
+
+    // Currently Exploring
+    String[] currentlyLearning = {
+        "Docker",
+        "Machine Learning",
+        "Problem Solving"
+    };
+
+    void philosophy() {
+        System.out.println(
+            "Understand deeply. Build intelligently."
+        );
+    }
+
+    public static void main(String[] args) {
+        DishariGhosh developer = new DishariGhosh();
+        developer.philosophy();
+    }
+}
 ```
 
 I'm a developer driven by curiosity and a genuine interest in understanding how technology works.
