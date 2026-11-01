@@ -1,125 +1,180 @@
-# 👋 Hi, I'm Dishari Ghosh!
+# `DISHARI.OS` — A Digital Research Lab
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:301934,40:8A2BE2,100:FF69B4&height=230&section=header&text=Dishari%20Ghosh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=60&descSize=16" />
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗        ║
+║       ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║        ║
+║       ██║  ██║██║███████╗███████║███████║██████╔╝██║        ║
+║       ██║  ██║██║╚════██║██╔══██║██╔══██║██╔══██╗██║        ║
+║       ██████╔╝██║███████║██║  ██║██║  ██║██║  ██║██║        ║
+║       ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ║
+║                                                              ║
+║                  G H O S H   /   0 0 1                       ║
+║                                                              ║
+║              THE DATA OBSERVATORY                             ║
+║                                                              ║
+║        OBSERVE  /  ANALYZE  /  EXPERIMENT  /  BUILD           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
+
+`[ SYSTEM INITIALIZED ]` &nbsp; ` [ OPERATOR: DISHARI ]`
+
+**A curious mind exploring the architecture of intelligence.**
+
+[ `ABOUT THE OPERATOR` ](#-01--operator-profile) ·
+[ `THE LAB` ](#-02--areas-of-exploration) ·
+[ `TOOL VAULT` ](#-03--technical-inventory) ·
+[ `ACTIVITY` ](#-05--system-telemetry)
+
+</div>
+
+---
+
+## `01 / OPERATOR PROFILE`
+
+<details open>
+<summary><b>ACCESS PERSONNEL FILE ▸</b></summary>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;AI+Enthusiast+%E2%9C%A8;Python+Developer+%F0%9F%90%8D;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" />
+| FIELD | INFORMATION |
+|:---|:---|
+| OPERATOR | Dishari Ghosh |
+| PRIMARY DOMAIN | Data Science & Analytics |
+| SECONDARY DOMAIN | Machine Learning & AI |
+| PRIMARY LANGUAGE | Python |
+| CURRENT MODE | Learn → Experiment → Build |
+| ENVIRONMENT | Always evolving |
 
-<br/><br/>
+</details>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dishari-ghosh&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge)](https://github.com/dishari-ghosh)
-![Python](https://img.shields.io/badge/Python-Developer-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Always-Learning-ff69b4?style=for-the-badge)
+I'm Dishari — someone fascinated by how technology works beneath the surface.
 
-</div>
+I like exploring patterns hidden inside data, understanding algorithms, experimenting with intelligent systems and developing solutions through code.
 
----
+I don't believe in learning just to collect technologies. I want to understand them, experiment with them and eventually put that knowledge to work.
 
-## 🌸 About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/Dishari-Ghosh/Dishari-Ghosh/main/assets/about.svg" alt="About me illustration"/>
-
-> *"Turning curiosity into knowledge and data into meaningful insights."*
-
-Hey there! I'm **Dishari Ghosh**, a technology enthusiast passionate about understanding data, exploring intelligent systems and building solutions through programming.
-
-I enjoy combining analytical thinking with creativity to solve problems and continuously expand my technical knowledge.
-
-- 📊 Interested in Data Analytics and Data Science.
-- 🤖 Exploring Machine Learning and Artificial Intelligence.
-- 🐍 Working with Python and programming fundamentals.
-- 💡 Interested in predictive systems and intelligent applications.
-- 🐳 Exploring Docker and containerization.
-- 🌱 Believe in learning by building, experimenting and improving.
-
-<br clear="right"/>
+**My approach:** Curiosity first. Understanding second. Implementation always.
 
 ---
 
-## 🧠 Areas of Interest
+## `02 / AREAS OF EXPLORATION`
 
-<div align="center">
+<details open>
+<summary><b>01 — THE DATA LAB</b> &nbsp; // ANALYTICAL THINKING</summary>
 
-| 📊 Data & Analytics | 🤖 Artificial Intelligence | 💻 Programming |
-|:---:|:---:|:---:|
-| Data Analysis | Machine Learning | Python |
-| Data Visualization | Predictive Modeling | C / C++ |
-| Data Exploration | Intelligent Systems | Java |
+- Data Analytics
+- Data Exploration
+- Data Visualization
+- Predictive Analysis
 
-</div>
+</details>
+
+<details open>
+<summary><b>02 — THE INTELLIGENCE LAB</b> &nbsp; // MACHINE LEARNING</summary>
+
+- Machine Learning Algorithms
+- Deep Learning Concepts
+- Artificial Intelligence
+- Intelligent Applications
+
+</details>
+
+<details open>
+<summary><b>03 — THE ENGINEERING LAB</b> &nbsp; // SOFTWARE & DEVELOPMENT</summary>
+
+- Python Programming
+- Programming Fundamentals
+- Web Development
+- Backend & Containerization Concepts
+
+</details>
 
 ---
 
-## 🛠️ Languages & Technologies
+## `03 / TECHNICAL INVENTORY`
 
-### 💻 Programming Languages
+<sub>TOOLS CURRENTLY IN MY DEVELOPMENT ENVIRONMENT</sub>
+
+**[ A ] — PROGRAMMING LANGUAGES**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
 </p>
 
-### 🌐 Web Development & Databases
+**[ B ] — FRAMEWORKS & DATABASES**
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,mysql&theme=dark" />
 </p>
 
-### 📊 Data Science & Machine Learning
+**[ C ] — DATA SCIENCE & COMPUTER VISION**
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="48" alt="Scikit-learn"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="46" height="46" alt="Pandas"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="46" height="46" alt="OpenCV"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="46" alt="Scikit-learn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="46" height="46" alt="Seaborn"/>
 </p>
 
-### 🐳 Tools & Platforms
+**[ D ] — DEVELOPMENT ENVIRONMENT**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </p>
 
 ---
 
-## 📈 What I'm Currently Exploring
+## `04 / EXPERIMENT LOG`
 
-- Strengthening my understanding of Machine Learning.
-- Exploring Deep Learning and AI concepts.
-- Improving programming and problem-solving skills.
-- Learning Docker and container-based workflows.
-- Understanding how to develop practical, data-driven applications.
+<sub>THE PLACE WHERE THEORY MEETS IMPLEMENTATION</sub>
 
----
+Not everything begins with a perfect solution.
 
-## 📊 GitHub Statistics
+Some experiments work. Some break. Some teach me things I didn't expect.
+
+That's the point.
+
+**Explore my public repositories:**
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dishari-ghosh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+[![Repositories](https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dishari-Ghosh?tab=repositories)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishari-ghosh&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## `05 / SYSTEM TELEMETRY`
+
+<sub>A SNAPSHOT OF MY GITHUB ACTIVITY</sub>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dishari-Ghosh&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=dishari-ghosh&theme=radical&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishari-Ghosh&layout=compact&theme=midnight-purple&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Dishari-Ghosh&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 <details>
-<summary>🏆 GitHub Trophies & Contribution Activity</summary>
+<summary><b>VIEW CONTRIBUTION MAP ▸</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=dishari-ghosh&theme=radical&no-frame=true&row=1&column=6" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dishari-ghosh&theme=react-dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dishari-Ghosh&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -127,40 +182,54 @@ I enjoy combining analytical thinking with creativity to solve problems and cont
 
 ---
 
-## 💬 My Philosophy
+## `06 / CURRENT OPERATIONS`
 
-<div align="center">
+```text
+[ IN PROGRESS ]
 
-### Learn continuously. Think critically. Build intelligently.
+> Strengthening Machine Learning foundations
+> Exploring Artificial Intelligence
+> Improving Python problem-solving
+> Learning Docker and containerization
+> Building practical technical knowledge
 
-*"Every problem is an opportunity to learn something new."*
+[ DIRECTIVE ]
 
-</div>
+Understand the concept.
+Experiment with the implementation.
+Learn from the outcome.
+Repeat.
+```
 
 ---
 
-## 🤝 Let's Connect!
+## `07 / ESTABLISH CONNECTION`
+
+<sub>EVERY GOOD IDEA GETS BETTER WITH COLLABORATION.</sub>
 
 <div align="center">
 
 <a href="mailto:disharighosh77@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/dishari-ghosh-087110286/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.kaggle.com/disharighosh7">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/KAGGLE-EXPLORE-8A2BE2?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Dishari-Ghosh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-📧 **disharighosh77@gmail.com**
+📄 [ACCESS RESUME](https://github.com/Dishari-Ghosh/Dishari-Ghosh/blob/main/assets/Dishari_Ghosh_Resume.pdf)
 
-📄 [View My Resume](https://github.com/Dishari-Ghosh/Dishari-Ghosh/blob/main/assets/Dishari_Ghosh_Resume.pdf)
+**disharighosh77@gmail.com**
 
 </div>
 
@@ -168,12 +237,20 @@ I enjoy combining analytical thinking with creativity to solve problems and cont
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:301934,40:8A2BE2,100:FF69B4&height=130&section=footer" />
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  END OF TRANSMISSION                                 │
+│                                                      │
+│  Curiosity is the input.                              │
+│  Knowledge is the process.                            │
+│  Innovation is the output.                            │
+│                                                      │
+│  DISHARI.OS  //  KEEP EXPLORING                       │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
-### ⭐ Thanks for visiting my GitHub profile!
-
-*Curiosity drives me. Technology inspires me. Learning never stops.*
-
-**Let's build something meaningful! 🚀**
+<sub>© DISHARI GHOSH · BUILT WITH CURIOSITY & CODE</sub>
 
 </div>
